@@ -1,7 +1,7 @@
 # wechat_bot
 微信聊天机器人
 
-原文见[]()
+原文见[把聊天机器人接入微信](http://blog.just4fun.site/create-wechat-bot.html)
 
 
 另外如果你要使用中文语料库，参考[构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)
@@ -15,7 +15,7 @@
 运行：`hug -f bot_api.py`
 
 ### 连接微信
-参考[]()
+参考[把聊天机器人接入微信](http://blog.just4fun.site/create-wechat-bot.html)
 
 # 开始聊天
 
