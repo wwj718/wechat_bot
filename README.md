@@ -24,7 +24,6 @@
 
 这是被机器人接管的聊天界面
 
-http://oav6fgfj1.bkt.clouddn.com/wechat_bot6055328f.png
 ![](http://oav6fgfj1.bkt.clouddn.com/wechat_bot6055328f.png)
 
 
