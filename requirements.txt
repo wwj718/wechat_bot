@@ -1,0 +1,2 @@
+ChatterBot==0.4.8
+hug==2.1.2
