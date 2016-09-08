@@ -14,6 +14,8 @@
 
 运行：`hug -f bot_api.py`
 
+测试：`http://127.0.0.1:8000/get_response?user_input=%E4%BD%A0%E5%A5%BD`
+
 ### 连接微信
 参考[把聊天机器人接入微信](http://blog.just4fun.site/create-wechat-bot.html)
 
