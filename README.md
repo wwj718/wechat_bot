@@ -6,6 +6,7 @@
 
 另外如果你要使用中文语料库，参考[构建自己的智能聊天机器人](http://blog.just4fun.site/create-a-smart-chat-bot.html)
 
+经@sunchenguang同学提醒，项目中的wxbot有问题（成旧），建议大家使用官方最新的，我个人已经迁往itchat，所以就不在此从上游库更新，除此微信通讯部分外，其他流程和原理依然可用
 
 # usage
 ### 运行bot api
