@@ -1,2 +1,5 @@
 ChatterBot==0.4.8
-hug==2.1.2
+hug==2.1.2 #todo sanic
+itchat==1.2.26
+bottle
+
