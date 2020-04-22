@@ -1,3 +1,6 @@
+# 提醒
+本项目已不再维护，推荐使用[CodeLab Adapter wechat](https://adapter.codelab.club/extension_guide/wechat/)
+
 # wechat_bot
 
 微信聊天机器人
